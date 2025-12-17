@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bioSite Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+    <header>
+        <div class="site-title">Brett bioSite</div>
+        <div class="site-subtitle">A look into Brett’s world</div>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="#">About</a>
+        <a href="#">Hobby</a>
+    </nav>
+<main>
+    <section class="hero">
+        <h1>About the Subject</h1>
+        <p>
+            This page provides background information about the subject of the bioSite
+            project and highlights general interests in technology.
+        </p>
+    </section>
+
+    <section class="row row-alt-1">
+        <div class="col">
+            <h2>Background</h2>
+            <p>
+                The subject has an interest in computer systems, security concepts,
+                and hands-on learning. This page exists to demonstrate HTML structure,
+                CSS styling, and accessibility awareness.
+            </p>
+        </div>
+        <div class="col">
+            <img src="images/images_tech1.jpg" alt="Technology workspace">
+        </div>
+    </section>
+</main>
+
+
+    <footer>
+        <p>&copy; 2025 Brett bioSite. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
